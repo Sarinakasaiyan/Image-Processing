@@ -1,6 +1,7 @@
 Image Processing 
 
 [Image Quantization]
+
 This code saves an image at different quality levels and then displays the saved images simultaneously. Its purpose is to show the impact of varying quality on the image.
 
 
@@ -22,6 +23,8 @@ This code reads an RGB image and converts it to grayscale. It then applies thres
 
 
 
-[Cropped]This code reads an image, crops a specified region, applies Gaussian blur to the cropped area, and saves the blurred image. It then displays the original, cropped, and blurred images side by side for comparison.
+[Cropped]
+
+This code reads an image, crops a specified region, applies Gaussian blur to the cropped area, and saves the blurred image. It then displays the original, cropped, and blurred images side by side for comparison.
 
 <img width="1440" alt="Screenshot 1403-08-02 at 22 32 56" src="https://github.com/user-attachments/assets/4870ca3c-753a-4d66-a862-d001844628e8">
