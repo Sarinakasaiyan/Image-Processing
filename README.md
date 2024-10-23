@@ -11,6 +11,9 @@ This code saves an image at different quality levels and then displays the saved
 
 
 
+
+
+
 [Convert RGB Image To Binary]
 
 This code reads an RGB image and converts it to grayscale. It then applies thresholding to convert the grayscale image into a binary image and displays both the input and output images side by side.
@@ -20,6 +23,9 @@ This code reads an RGB image and converts it to grayscale. It then applies thres
 
 
 <img width="1440" alt="Screenshot 1403-08-02 at 21 35 05" src="https://github.com/user-attachments/assets/33415c4f-ea6e-461d-9093-340267568916">
+
+
+
 
 
 
