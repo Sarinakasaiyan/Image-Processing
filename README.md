@@ -44,8 +44,8 @@ This code reads an image and upsamples it by a factor of 2 using bilinear interp
 
 
 
-<img width="1440" alt="Upsampling" src="https://github.com/user-attachments/assets/0e3409e0-f2e3-471b-97d1-7e2234aab421">
 
 
 
+<img width="1440" alt="Upsampling" src="https://github.com/user-attachments/assets/12fa9038-a589-4623-ace8-52fae92cd62a">
 
