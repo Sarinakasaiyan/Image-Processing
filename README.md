@@ -34,3 +34,18 @@ This code reads an RGB image and converts it to grayscale. It then applies thres
 This code reads an image, crops a specified region, applies Gaussian blur to the cropped area, and saves the blurred image. It then displays the original, cropped, and blurred images side by side for comparison.
 
 <img width="1440" alt="Screenshot 1403-08-02 at 22 32 56" src="https://github.com/user-attachments/assets/4870ca3c-753a-4d66-a862-d001844628e8">
+
+
+[Upsampling]
+
+
+
+This code reads an image and upsamples it by a factor of 2 using bilinear interpolation, improving its resolution. It then saves the upsampled image and displays both the original and upsampled images side by side, with axes visible for reference.
+
+
+
+<img width="1440" alt="Upsampling" src="https://github.com/user-attachments/assets/0e3409e0-f2e3-471b-97d1-7e2234aab421">
+
+
+
+
