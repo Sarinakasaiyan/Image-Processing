@@ -8,7 +8,12 @@ This code saves an image at different quality levels and then displays the saved
 
 
 
+
+
 <img width="1440" alt="Screenshot 1403-08-02 at 21 35 05" src="https://github.com/user-attachments/assets/33415c4f-ea6e-461d-9093-340267568916">
 
+
+
+[Cropped]This code reads an image, crops a specified region, applies Gaussian blur to the cropped area, and saves the blurred image. It then displays the original, cropped, and blurred images side by side for comparison.
 
 <img width="1440" alt="Screenshot 1403-08-02 at 22 32 56" src="https://github.com/user-attachments/assets/4870ca3c-753a-4d66-a862-d001844628e8">
