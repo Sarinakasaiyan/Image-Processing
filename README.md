@@ -49,3 +49,15 @@ This code reads an image and upsamples it by a factor of 2 using bilinear interp
 
 <img width="1440" alt="Upsampling" src="https://github.com/user-attachments/assets/12fa9038-a589-4623-ace8-52fae92cd62a">
 
+
+
+[Downsampling]
+
+
+The provided code reads an image, downsamples it by factors of 1/2 and 1/4 using OpenCV's `resize` function, and displays the original and downsampled images. It checks if the image is loaded successfully before processing, ensuring that resizing operations are performed on a valid image.
+
+
+
+<img width="1440" alt="Screenshot 1403-08-03 at 03 02 55" src="https://github.com/user-attachments/assets/42c15155-8fbc-4c17-84d8-8362a7c25822">
+
+
