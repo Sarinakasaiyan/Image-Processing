@@ -74,5 +74,21 @@ This code loads an RGB image, converts it to grayscale, and normalizes it to two
 
 
 
+[Negative]
+
+This code reads a grayscale image and creates its negative, displaying both images. It also calculates and plots the histograms of the original and negative images to visualize the distribution of pixel intensities.
+
+![Uploading Negative Input.png…]()
+
+
+![Uploading Negative output.png…]()
+
+
+
+
+
+
+
+
 
 
