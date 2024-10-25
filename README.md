@@ -61,3 +61,18 @@ The provided code reads an image, downsamples it by factors of 1/2 and 1/4 using
 <img width="1440" alt="Screenshot 1403-08-03 at 03 02 55" src="https://github.com/user-attachments/assets/42c15155-8fbc-4c17-84d8-8362a7c25822">
 
 
+
+
+[Change The Number Of Shades Of Gray]
+
+
+This code loads an RGB image, converts it to grayscale, and normalizes it to two different levels (128 and 64 shades). Finally, it displays the original image alongside the two normalized grayscale images for comparison.
+
+
+
+<img width="1440" alt="Change_The_Number_Of_Shades_Of_Gray" src="https://github.com/user-attachments/assets/2caa0eec-2148-4219-a7cb-7abab2fd080a">
+
+
+
+
+
