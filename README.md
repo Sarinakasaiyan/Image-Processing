@@ -91,6 +91,14 @@ This code reads a grayscale image and creates its negative, displaying both imag
 
 
 
+[Adjust Intensity Values]
+
+
+The code loads the original image and adjusts its color intensity using the `rescale_intensity` function. It then displays both the original and adjusted images side by side, with titles positioned below each image.
+
+
+
+<img width="1440" alt="Adjust_Intensity_Values" src="https://github.com/user-attachments/assets/9ceedfab-2cdb-4146-a508-6050b810b9d2">
 
 
 
