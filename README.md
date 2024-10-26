@@ -1,4 +1,4 @@
-Image Processing 
+<img width="1440" alt="Histogram_Matching" src="https://github.com/user-attachments/assets/ff4f5bbd-2e2f-464e-85c4-40d9d5de3639">Image Processing 
 
 [Image Quantization]
 
@@ -111,4 +111,16 @@ The code loads a grayscale image, calculates its histogram, performs histogram e
 
 
 <img width="1440" alt="Histogram-Adjustment" src="https://github.com/user-attachments/assets/871e24c6-200a-48d3-a533-681f5f6aff8f">
+
+
+[Histogram Matching]
+
+
+The code performs histogram manipulation on an image by applying a wide Gaussian distribution with a high `sigma` and a low center, resulting in significant changes to pixel intensities. This transformation produces a final image that can appear drastically brighter or darker, along with a histogram that reflects these alterations.
+
+
+<img width="1440" alt="Histogram_Matching" src="https://github.com/user-attachments/assets/2e29d364-269d-461a-b507-bc8cc8a77071">
+
+
+
 
