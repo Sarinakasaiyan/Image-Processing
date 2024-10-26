@@ -131,3 +131,16 @@ This code adds Gaussian noise to the original image and then reduces that noise 
 
 <img width="1440" alt="Mean_Filter" src="https://github.com/user-attachments/assets/59e25f42-71ee-4330-8a8c-d38078dbee93">
 
+
+
+
+[Box Filter]
+
+This code processes an input image using a box filter and displays both the original and the filtered images in separate subplots. It also checks for the existence of the file before loading the image to prevent errors.
+
+
+
+<img width="1440" alt="Box Filter" src="https://github.com/user-attachments/assets/07bd0401-777c-42e9-97e5-43b02178b851">
+
+
+
