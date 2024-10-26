@@ -1,4 +1,4 @@
-<img width="1440" alt="Histogram_Matching" src="https://github.com/user-attachments/assets/ff4f5bbd-2e2f-464e-85c4-40d9d5de3639">Image Processing 
+Image Processing 
 
 [Image Quantization]
 
