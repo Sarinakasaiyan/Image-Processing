@@ -103,3 +103,12 @@ The code loads the original image and adjusts its color intensity using the `res
 
 
 
+
+[Histogram Adjustment]
+
+
+The code loads a grayscale image, calculates its histogram, performs histogram equalization to enhance contrast, and computes the histogram of the equalized image. It then visualizes both the original and equalized images along with their histograms in a 2x2 grid using Matplotlib.
+
+
+<img width="1440" alt="Histogram-Adjustment" src="https://github.com/user-attachments/assets/871e24c6-200a-48d3-a533-681f5f6aff8f">
+
