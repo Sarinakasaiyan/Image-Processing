@@ -123,4 +123,10 @@ The code performs histogram manipulation on an image by applying a wide Gaussian
 
 
 
+[Mean Filter]
+
+
+This code adds Gaussian noise to the original image and then reduces that noise using a mean filter. Finally, it displays the original image, the noisy image, and the filtered image for comparison.
+
+
 
