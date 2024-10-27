@@ -162,3 +162,14 @@ This code reads an image from a file and adds salt-and-pepper noise to it. It th
 <img width="1440" alt="Min_Filter" src="https://github.com/user-attachments/assets/d84734a3-7b06-4aa6-b32a-2db3c23f92a5">
 
 
+
+
+[Max Filter]
+
+The code reads an image, converts it to grayscale, and adds pepper noise to it. It then reduces the noise using a max filter and displays three images: the original, the noisy, and the filtered image.
+
+<img width="1440" alt="Max_Filter" src="https://github.com/user-attachments/assets/de9d263f-f1ed-4492-ba92-aa0900736758">
+
+
+
+ 
