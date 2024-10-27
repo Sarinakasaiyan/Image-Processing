@@ -26,7 +26,7 @@ This code reads an RGB image and converts it to grayscale. It then applies thres
 
 
 
-
+---
 
 
 [Cropped]
@@ -35,6 +35,8 @@ This code reads an image, crops a specified region, applies Gaussian blur to the
 
 <img width="1440" alt="Screenshot 1403-08-02 at 22 32 56" src="https://github.com/user-attachments/assets/4870ca3c-753a-4d66-a862-d001844628e8">
 
+
+---
 
 [Upsampling]
 
@@ -46,10 +48,10 @@ This code reads an image and upsamples it by a factor of 2 using bilinear interp
 
 
 
-
 <img width="1440" alt="Upsampling" src="https://github.com/user-attachments/assets/12fa9038-a589-4623-ace8-52fae92cd62a">
 
 
+---
 
 [Downsampling]
 
@@ -62,6 +64,8 @@ The provided code reads an image, downsamples it by factors of 1/2 and 1/4 using
 
 
 
+---
+
 
 [Change The Number Of Shades Of Gray]
 
@@ -72,6 +76,8 @@ This code loads an RGB image, converts it to grayscale, and normalizes it to two
 
 <img width="1440" alt="Change_The_Number_Of_Shades_Of_Gray" src="https://github.com/user-attachments/assets/2caa0eec-2148-4219-a7cb-7abab2fd080a">
 
+
+---
 
 
 [Negative]
@@ -88,7 +94,7 @@ This code reads a grayscale image and creates its negative, displaying both imag
 
 
 
-
+---
 
 
 [Adjust Intensity Values]
@@ -101,7 +107,7 @@ The code loads the original image and adjusts its color intensity using the `res
 <img width="1440" alt="Adjust_Intensity_Values" src="https://github.com/user-attachments/assets/9ceedfab-2cdb-4146-a508-6050b810b9d2">
 
 
-
+---
 
 
 [Histogram Adjustment]
@@ -112,6 +118,7 @@ The code loads a grayscale image, calculates its histogram, performs histogram e
 
 <img width="1440" alt="Histogram-Adjustment" src="https://github.com/user-attachments/assets/871e24c6-200a-48d3-a533-681f5f6aff8f">
 
+---
 
 [Histogram Matching]
 
@@ -121,6 +128,8 @@ The code performs histogram manipulation on an image by applying a wide Gaussian
 
 <img width="1440" alt="Histogram_Matching" src="https://github.com/user-attachments/assets/2e29d364-269d-461a-b507-bc8cc8a77071">
 
+
+---
 
 
 [Mean Filter]
@@ -132,6 +141,7 @@ This code adds Gaussian noise to the original image and then reduces that noise 
 <img width="1440" alt="Mean_Filter" src="https://github.com/user-attachments/assets/59e25f42-71ee-4330-8a8c-d38078dbee93">
 
 
+---
 
 
 [Box Filter]
@@ -142,6 +152,7 @@ This code processes an input image using a box filter and displays both the orig
 
 <img width="1440" alt="Box Filter" src="https://github.com/user-attachments/assets/07bd0401-777c-42e9-97e5-43b02178b851">
 
+---
 
 
 [Median Filter]
@@ -152,7 +163,7 @@ This code adds Gaussian noise to an image and then reduces the noise using a med
 
 
 
-
+---
 
 [Min Filter]
 
@@ -161,7 +172,7 @@ This code reads an image from a file and adds salt-and-pepper noise to it. It th
 
 <img width="1440" alt="Min_Filter" src="https://github.com/user-attachments/assets/d84734a3-7b06-4aa6-b32a-2db3c23f92a5">
 
-
+---
 
 
 [Max Filter]
