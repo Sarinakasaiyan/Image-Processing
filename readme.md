@@ -153,3 +153,12 @@ This code adds Gaussian noise to an image and then reduces the noise using a med
 
 
 
+
+[Min Filter]
+
+
+This code reads an image from a file and adds salt-and-pepper noise to it. It then filters the noisy image using a min filter (using the erosion operator) and displays three images: the original, the noisy, and the filtered one.
+
+<img width="1440" alt="Min_Filter" src="https://github.com/user-attachments/assets/d84734a3-7b06-4aa6-b32a-2db3c23f92a5">
+
+
