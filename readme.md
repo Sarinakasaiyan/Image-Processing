@@ -144,3 +144,12 @@ This code processes an input image using a box filter and displays both the orig
 
 
 
+[Median Filter]
+
+This code adds Gaussian noise to an image and then reduces the noise using a median filter. Finally, it displays three images: the original image, the noisy image, and the filtered image side by side.
+
+<img width="1440" alt="Median Filter" src="https://github.com/user-attachments/assets/2918cdae-c7e8-4179-97ea-c773e0f2c6f3">
+
+
+
+
