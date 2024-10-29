@@ -222,3 +222,9 @@ The provided code converts an image to grayscale and applies a Laplacian filter 
 <img width="1440" alt="Add_Laplacian_To_Original_Image" src="https://github.com/user-attachments/assets/265631c9-4c66-4d9b-aa8b-c671ddb29ef1">
 
 
+---
+
+[]
+
+
+This code applies a sharpening filter to the loaded image and displays the result alongside the original image. The filter is defined using a 3x3 matrix that enhances edges and increases the details of the image.
