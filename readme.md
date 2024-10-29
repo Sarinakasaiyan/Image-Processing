@@ -1,4 +1,4 @@
-Image Processing 
+<img width="1440" alt="Sharpening Filter" src="https://github.com/user-attachments/assets/b7479d3c-1cd2-4612-86f8-dd0cc24cce4b">Image Processing 
 
 [Image Quantization]
 
@@ -224,7 +224,10 @@ The provided code converts an image to grayscale and applies a Laplacian filter 
 
 ---
 
-[]
+[Sharpening Filter]
 
 
 This code applies a sharpening filter to the loaded image and displays the result alongside the original image. The filter is defined using a 3x3 matrix that enhances edges and increases the details of the image.
+
+<img width="1440" alt="Sharpening Filter" src="https://github.com/user-attachments/assets/a0929ba5-d3e6-409e-a050-224c07e209bf">
+
