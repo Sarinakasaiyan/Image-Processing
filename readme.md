@@ -182,5 +182,16 @@ The code reads an image, converts it to grayscale, and adds pepper noise to it. 
 <img width="1440" alt="Max_Filter" src="https://github.com/user-attachments/assets/de9d263f-f1ed-4492-ba92-aa0900736758">
 
 
+---
 
- 
+
+[Gaussian Filter]
+
+The provided code applies a Gaussian filter to an image using OpenCV to blur it. It reads the image, creates the Gaussian filter, applies it, and then displays both the original and blurred images.
+
+
+ <img width="1440" alt="Gaussian Filter" src="https://github.com/user-attachments/assets/a860e265-2cba-4593-be4d-1874144ecc6d">
+
+ <img width="1440" alt="Gaussian Filter output" src="https://github.com/user-attachments/assets/3012879f-c54b-4402-a86d-c60e8c58cabd">
+
+
