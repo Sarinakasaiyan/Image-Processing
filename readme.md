@@ -1,4 +1,3 @@
-<img width="1440" alt="Sharpening Filter" src="https://github.com/user-attachments/assets/b7479d3c-1cd2-4612-86f8-dd0cc24cce4b">Image Processing 
 
 [Image Quantization]
 
@@ -230,4 +229,19 @@ The provided code converts an image to grayscale and applies a Laplacian filter 
 This code applies a sharpening filter to the loaded image and displays the result alongside the original image. The filter is defined using a 3x3 matrix that enhances edges and increases the details of the image.
 
 <img width="1440" alt="Sharpening Filter" src="https://github.com/user-attachments/assets/a0929ba5-d3e6-409e-a050-224c07e209bf">
+
+
+---
+
+[Gaussian_Filter_In_Frequency_Domain]
+
+
+This code performs a Fourier transform on a grayscale image, visualizing both the original image and its frequency representation. It displays the Fourier transform, shifted Fourier transform, and the reconstructed image using appropriate magnitude calculations to ensure clarity and avoid loss of information.
+
+
+<img width="1440" alt="Gaussian_Filter_In_Frequency_Domain" src="https://github.com/user-attachments/assets/8e2578c4-4a49-4e0f-818d-1c6db8383899">
+
+
+<img width="1440" alt="Gaussian_Filter_In_Frequency_Domain output" src="https://github.com/user-attachments/assets/2c780e0e-55c1-432a-b24d-2215a91040b2">
+
 
