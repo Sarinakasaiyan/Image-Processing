@@ -1,5 +1,5 @@
 
-<h2>1.Image Quantization</h2>
+<h2>1. Image Quantization</h2>
 
 This code saves an image at different quality levels and then displays the saved images simultaneously. Its purpose is to show the impact of varying quality on the image.
 
