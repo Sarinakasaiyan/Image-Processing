@@ -212,4 +212,13 @@ The code loads an image, converts it to grayscale, and applies various edge dete
 <img width="1440" alt="Edge Detection output" src="https://github.com/user-attachments/assets/d141bb67-d6a0-4912-bfbb-61547d6c460f">
 
 
+---
+
+
+[Add_Laplacian_To_Original_Image]
+
+The provided code converts an image to grayscale and applies a Laplacian filter for edge detection. It then displays the original image, the result of the Laplacian filter, and the image after adding the Laplacian result back to the original, illustrating the impact of edge detection on image details.
+
+<img width="1440" alt="Add_Laplacian_To_Original_Image" src="https://github.com/user-attachments/assets/265631c9-4c66-4d9b-aa8b-c671ddb29ef1">
+
 
