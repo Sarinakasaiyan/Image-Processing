@@ -281,3 +281,19 @@ This code performs image processing steps using OpenCV, which include loading an
 <img width="1440" alt="Inverse_Filter output" src="https://github.com/user-attachments/assets/0f311f6c-75bf-4096-bea3-06e92f6cb4b3">
 
 
+---
+
+
+<h2> 24. Wiener Filter  </h2>
+
+
+This code demonstrates how to add Gaussian noise to an image, apply a Wiener filter for noise reduction, and visualize the results using Python's OpenCV and Matplotlib libraries. Finally, it displays the original image, grayscale image, noisy image, and restored image in a 2x2 grid for comparison of the effects of noise and restoration.
+
+
+<img width="1440" alt="Wiener_Filter input" src="https://github.com/user-attachments/assets/5e85b648-5c3a-40e1-9416-3c05d66a428a">
+
+<img width="1440" alt="Wiener_Filter output" src="https://github.com/user-attachments/assets/5cc3bc28-d643-4077-91b8-add1066bed21">
+
+
+---
+
