@@ -258,7 +258,13 @@ This code applies a Butterworth high-pass filter to an input image and displays 
 <img width="1440" alt="Butterworth High Pass Filter out put" src="https://github.com/user-attachments/assets/c4bb2da4-fb49-4985-810c-eb5641a5fb59">
 
 
+---
+<h2> 22. Ideal_High_Pass_Filter  </h2>
 
+This code applies an Ideal High Pass Filter to an image. It first performs a Fourier transform on the image, then removes low frequencies using a mask, and finally reconstructs the filtered image with an inverse Fourier transform.
+
+
+<img width="1440" alt="Ideal_High_Pass_Filter ipynb" src="https://github.com/user-attachments/assets/7f71234a-5a86-4a83-bcd6-8d143d3fce43">
 
 
 
