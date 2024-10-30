@@ -244,4 +244,21 @@ This code performs a Fourier transform on a grayscale image, visualizing both th
 
 <img width="1440" alt="Gaussian_Filter_In_Frequency_Domain output" src="https://github.com/user-attachments/assets/2c780e0e-55c1-432a-b24d-2215a91040b2">
 
+---
+<h2> 21. Butterworth High Pass Filter </h2>
+
+
+This code applies a Butterworth high-pass filter to an input image and displays both the original and the filtered images. It first performs a Fourier transform on the image, designs the filter, and then obtains the final image using the inverse Fourier transform.
+
+<img width="1440" alt="Butterworth High Pass Filter  input" src="https://github.com/user-attachments/assets/60a63adb-12d6-4986-a725-3b3716213730">
+
+<img width="1440" alt="Butterworth High Pass Filter input" src="https://github.com/user-attachments/assets/52abafa3-7947-41f4-bd34-fe9d5c13717d">
+
+
+<img width="1440" alt="Butterworth High Pass Filter out put" src="https://github.com/user-attachments/assets/c4bb2da4-fb49-4985-810c-eb5641a5fb59">
+
+
+
+
+
 
