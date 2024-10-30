@@ -13,7 +13,7 @@ This code saves an image at different quality levels and then displays the saved
 
 
 
-[Convert RGB Image To Binary]
+<h2>2. Convert RGB Image To Binary</h2>
 
 This code reads an RGB image and converts it to grayscale. It then applies thresholding to convert the grayscale image into a binary image and displays both the input and output images side by side.
 
@@ -28,7 +28,7 @@ This code reads an RGB image and converts it to grayscale. It then applies thres
 ---
 
 
-[Cropped]
+<h2> 3. Cropped </h2>
 
 This code reads an image, crops a specified region, applies Gaussian blur to the cropped area, and saves the blurred image. It then displays the original, cropped, and blurred images side by side for comparison.
 
@@ -37,7 +37,7 @@ This code reads an image, crops a specified region, applies Gaussian blur to the
 
 ---
 
-[Upsampling]
+<h2> 4. Upsampling </h2>
 
 
 
@@ -52,7 +52,7 @@ This code reads an image and upsamples it by a factor of 2 using bilinear interp
 
 ---
 
-[Downsampling]
+<h2> 5. Downsampling </h2>
 
 
 The provided code reads an image, downsamples it by factors of 1/2 and 1/4 using OpenCV's `resize` function, and displays the original and downsampled images. It checks if the image is loaded successfully before processing, ensuring that resizing operations are performed on a valid image.
@@ -66,7 +66,7 @@ The provided code reads an image, downsamples it by factors of 1/2 and 1/4 using
 ---
 
 
-[Change The Number Of Shades Of Gray]
+<h2> 6. Change The Number Of Shades Of Gray </h2>
 
 
 This code loads an RGB image, converts it to grayscale, and normalizes it to two different levels (128 and 64 shades). Finally, it displays the original image alongside the two normalized grayscale images for comparison.
@@ -79,7 +79,7 @@ This code loads an RGB image, converts it to grayscale, and normalizes it to two
 ---
 
 
-[Negative]
+<h2> 7. Negative </h2>
 
 This code reads a grayscale image and creates its negative, displaying both images. It also calculates and plots the histograms of the original and negative images to visualize the distribution of pixel intensities.
 
@@ -96,7 +96,7 @@ This code reads a grayscale image and creates its negative, displaying both imag
 ---
 
 
-[Adjust Intensity Values]
+<h2> 8. Adjust Intensity Values </h2>
 
 
 The code loads the original image and adjusts its color intensity using the `rescale_intensity` function. It then displays both the original and adjusted images side by side, with titles positioned below each image.
@@ -109,7 +109,7 @@ The code loads the original image and adjusts its color intensity using the `res
 ---
 
 
-[Histogram Adjustment]
+<h2> 9. Histogram Adjustment </h2>
 
 
 The code loads a grayscale image, calculates its histogram, performs histogram equalization to enhance contrast, and computes the histogram of the equalized image. It then visualizes both the original and equalized images along with their histograms in a 2x2 grid using Matplotlib.
@@ -119,7 +119,7 @@ The code loads a grayscale image, calculates its histogram, performs histogram e
 
 ---
 
-[Histogram Matching]
+<h2> 10. Histogram Matching </h2>
 
 
 The code performs histogram manipulation on an image by applying a wide Gaussian distribution with a high `sigma` and a low center, resulting in significant changes to pixel intensities. This transformation produces a final image that can appear drastically brighter or darker, along with a histogram that reflects these alterations.
@@ -131,7 +131,7 @@ The code performs histogram manipulation on an image by applying a wide Gaussian
 ---
 
 
-[Mean Filter]
+<h2> 11. Mean Filter </h2>
 
 
 This code adds Gaussian noise to the original image and then reduces that noise using a mean filter. Finally, it displays the original image, the noisy image, and the filtered image for comparison.
@@ -143,7 +143,7 @@ This code adds Gaussian noise to the original image and then reduces that noise 
 ---
 
 
-[Box Filter]
+<h2> 12. Box Filter </h2>
 
 This code processes an input image using a box filter and displays both the original and the filtered images in separate subplots. It also checks for the existence of the file before loading the image to prevent errors.
 
@@ -154,7 +154,7 @@ This code processes an input image using a box filter and displays both the orig
 ---
 
 
-[Median Filter]
+<h2> 13. Median Filter </h2>
 
 This code adds Gaussian noise to an image and then reduces the noise using a median filter. Finally, it displays three images: the original image, the noisy image, and the filtered image side by side.
 
@@ -164,7 +164,7 @@ This code adds Gaussian noise to an image and then reduces the noise using a med
 
 ---
 
-[Min Filter]
+<h2> 14. Min Filter </h2>
 
 
 This code reads an image from a file and adds salt-and-pepper noise to it. It then filters the noisy image using a min filter (using the erosion operator) and displays three images: the original, the noisy, and the filtered one.
@@ -174,7 +174,7 @@ This code reads an image from a file and adds salt-and-pepper noise to it. It th
 ---
 
 
-[Max Filter]
+<h2> 15. Max Filter </h2>
 
 The code reads an image, converts it to grayscale, and adds pepper noise to it. It then reduces the noise using a max filter and displays three images: the original, the noisy, and the filtered image.
 
@@ -184,7 +184,7 @@ The code reads an image, converts it to grayscale, and adds pepper noise to it. 
 ---
 
 
-[Gaussian Filter]
+<h2> 16. Gaussian Filter </h2>
 
 The provided code applies a Gaussian filter to an image using OpenCV to blur it. It reads the image, creates the Gaussian filter, applies it, and then displays both the original and blurred images.
 
@@ -197,7 +197,7 @@ The provided code applies a Gaussian filter to an image using OpenCV to blur it.
 ---
 
 
-[Edge Detection]
+<h2> 17. Edge Detection</h2>
 
 
 The code loads an image, converts it to grayscale, and applies various edge detection techniques (Canny, Laplacian, Sobel, and Roberts) to identify edges. It then visualizes the original image, grayscale image, and results of each edge detection method using Matplotlib subplots.
@@ -214,7 +214,7 @@ The code loads an image, converts it to grayscale, and applies various edge dete
 ---
 
 
-[Add_Laplacian_To_Original_Image]
+<h2> 18. Add_Laplacian_To_Original_Image </h2>
 
 The provided code converts an image to grayscale and applies a Laplacian filter for edge detection. It then displays the original image, the result of the Laplacian filter, and the image after adding the Laplacian result back to the original, illustrating the impact of edge detection on image details.
 
@@ -223,7 +223,7 @@ The provided code converts an image to grayscale and applies a Laplacian filter 
 
 ---
 
-[Sharpening Filter]
+<h2> 19. Sharpening Filter</h2>
 
 
 This code applies a sharpening filter to the loaded image and displays the result alongside the original image. The filter is defined using a 3x3 matrix that enhances edges and increases the details of the image.
@@ -233,7 +233,7 @@ This code applies a sharpening filter to the loaded image and displays the resul
 
 ---
 
-[Gaussian_Filter_In_Frequency_Domain]
+<h2> 20. Gaussian_Filter_In_Frequency_Domain </h2>
 
 
 This code performs a Fourier transform on a grayscale image, visualizing both the original image and its frequency representation. It displays the Fourier transform, shifted Fourier transform, and the reconstructed image using appropriate magnitude calculations to ensure clarity and avoid loss of information.
