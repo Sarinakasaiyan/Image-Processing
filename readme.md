@@ -297,3 +297,13 @@ This code demonstrates how to add Gaussian noise to an image, apply a Wiener fil
 
 ---
 
+<h2> 25. Gaussian High Pass Filter </h2>
+
+
+The provided code applies a Gaussian high-pass filter to an image using OpenCV in Python. It reads an image, applies a Gaussian smoothing kernel,and then subtracts the smoothed image from the original to enhance high-frequency components, effectively highlighting edges and fine details.The results are displayed side by side for comparison between the original and filtered images.
+
+<img width="1440" alt="Screenshot 1403-08-09 at 22 57 32" src="https://github.com/user-attachments/assets/ca972016-3177-4a02-97b7-37d571c74649">
+
+<img width="1440" alt="Screenshot 1403-08-09 at 22 57 39" src="https://github.com/user-attachments/assets/77a00a58-b33b-45b1-8c49-42bcfe03f281">
+
+
