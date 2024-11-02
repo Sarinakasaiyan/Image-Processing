@@ -321,8 +321,13 @@ Output:
 
 This code demonstrates how to add Gaussian noise to an image, apply a Wiener filter for noise reduction, and visualize the results using Python's OpenCV and Matplotlib libraries. Finally, it displays the original image, grayscale image, noisy image, and restored image in a 2x2 grid for comparison of the effects of noise and restoration.
 
+Input:
 
 <img width="1440" alt="Wiener_Filter input" src="https://github.com/user-attachments/assets/5e85b648-5c3a-40e1-9416-3c05d66a428a">
+
+---
+
+Output:
 
 <img width="1440" alt="Wiener_Filter output" src="https://github.com/user-attachments/assets/5cc3bc28-d643-4077-91b8-add1066bed21">
 
@@ -334,8 +339,16 @@ This code demonstrates how to add Gaussian noise to an image, apply a Wiener fil
 
 The provided code applies a Gaussian high-pass filter to an image using OpenCV in Python. It reads an image, applies a Gaussian smoothing kernel,and then subtracts the smoothed image from the original to enhance high-frequency components, effectively highlighting edges and fine details.The results are displayed side by side for comparison between the original and filtered images.
 
+Input:
+
 <img width="1440" alt="Screenshot 1403-08-09 at 22 57 32" src="https://github.com/user-attachments/assets/ca972016-3177-4a02-97b7-37d571c74649">
 
+---
+
+Output:
+
 <img width="1440" alt="Screenshot 1403-08-09 at 22 57 39" src="https://github.com/user-attachments/assets/77a00a58-b33b-45b1-8c49-42bcfe03f281">
+
+---
 
 
