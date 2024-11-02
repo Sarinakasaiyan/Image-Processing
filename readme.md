@@ -208,11 +208,16 @@ Input:
 
 The code loads an image, converts it to grayscale, and applies various edge detection techniques (Canny, Laplacian, Sobel, and Roberts) to identify edges. It then visualizes the original image, grayscale image, and results of each edge detection method using Matplotlib subplots.
 
+Input:
+
 <img width="1440" alt="Edge Detection" src="https://github.com/user-attachments/assets/5ae6fc9f-c091-4024-9aa8-d3c03fe5270c">
 
+---
 
 <img width="1440" alt="EdgeDetection" src="https://github.com/user-attachments/assets/a3f52f6f-c318-434c-a92d-ea71c0420ea6">
 
+---
+Output:
 
 <img width="1440" alt="Edge Detection output" src="https://github.com/user-attachments/assets/d141bb67-d6a0-4912-bfbb-61547d6c460f">
 
