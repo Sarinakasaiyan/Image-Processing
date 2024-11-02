@@ -249,9 +249,13 @@ This code applies a sharpening filter to the loaded image and displays the resul
 
 This code performs a Fourier transform on a grayscale image, visualizing both the original image and its frequency representation. It displays the Fourier transform, shifted Fourier transform, and the reconstructed image using appropriate magnitude calculations to ensure clarity and avoid loss of information.
 
+Input:
 
 <img width="1440" alt="Gaussian_Filter_In_Frequency_Domain" src="https://github.com/user-attachments/assets/8e2578c4-4a49-4e0f-818d-1c6db8383899">
 
+---
+
+Output:
 
 <img width="1440" alt="Gaussian_Filter_In_Frequency_Domain output" src="https://github.com/user-attachments/assets/2c780e0e-55c1-432a-b24d-2215a91040b2">
 
