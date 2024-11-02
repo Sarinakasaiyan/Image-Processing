@@ -302,7 +302,13 @@ This code applies an Ideal High Pass Filter to an image. It first performs a Fou
 
 This code performs image processing steps using OpenCV, which include loading an image, converting it to grayscale, applying a Gaussian filter to blur the image, adding noise to the blurred image, and finally using an inverse filter to recover the original image. The results are displayed, showing the original image, grayscale image, blurred image, noisy image, and the image after applying the inverse filter.
 
+Input:
+
 <img width="1440" alt="Inverse_Filter input" src="https://github.com/user-attachments/assets/df404b36-8965-49c7-a5c4-9811ca83a10b">
+
+---
+Output:
+
 
 <img width="1440" alt="Inverse_Filter output" src="https://github.com/user-attachments/assets/0f311f6c-75bf-4096-bea3-06e92f6cb4b3">
 
