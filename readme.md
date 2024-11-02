@@ -88,7 +88,7 @@ Input:
 <img width="1440" alt="Negative Input" src="https://github.com/user-attachments/assets/bf834ba1-4d71-4414-9035-970c4a573884">
 
 
---
+---
 Output:
 
 <img width="1440" alt="Negative output" src="https://github.com/user-attachments/assets/fc902cc7-74fc-4250-94d5-9b4498d48387">
