@@ -268,12 +268,15 @@ This code applies a Butterworth high-pass filter to an input image and displays 
 Input:
 
 <img width="1440" alt="Butterworth High Pass Filter  input" src="https://github.com/user-attachments/assets/60a63adb-12d6-4986-a725-3b3716213730">
+
 ---
 
 
 <img width="1440" alt="Butterworth High Pass Filter input" src="https://github.com/user-attachments/assets/52abafa3-7947-41f4-bd34-fe9d5c13717d">
 
+
 ---
+
 
 Output:
 
